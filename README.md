@@ -1,6 +1,6 @@
 # AutoDucks
 
-A DuckyScript powered Arduino used for automating the boring parts of the processes!
+A DuckyScript powered Arduino used for automating the boring processes!
 
 ## Requirements
 
